@@ -11,3 +11,10 @@
 ## Code Availability
 
 The implementation will be released publicly after the review process.
+
+## Acknowledgements
+Our code builds on [ORB-SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3).
+
+## Maintainer
+
+This repository is maintained by [João Soares](https://github.com/virgolinosoares) and [Gabriel Fischer](https://github.com/git-gfischer).
