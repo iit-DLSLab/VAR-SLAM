@@ -8,9 +8,13 @@
   <img src="docs/banner.png" alt="VAR-SLAM Banner" width="600">
 </div>
 
-## Code Availability
+If you use VAR-SLAM in your work, please cite the following paper:
 
-The implementation will be released publicly after the review process.
+
+
+## Code
+
+Code coming soon.
 
 ## Acknowledgements
 Our code builds on [ORB-SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3).
